@@ -54,17 +54,12 @@
 
 ## 📦 Open Source
 
-**[react-modern-drawer](https://github.com/Farzin-Firoozi/react-modern-drawer)**
-![npm](https://img.shields.io/npm/dt/react-modern-drawer?style=flat-square&label=downloads&color=000000&labelColor=000000&logo=npm&logoColor=white) ![npm weekly](https://img.shields.io/npm/dw/react-modern-drawer?style=flat-square&label=weekly&color=000000&labelColor=000000&logo=npm&logoColor=white) ![npm version](https://img.shields.io/npm/v/react-modern-drawer?style=flat-square&color=000000&labelColor=000000&logo=npm&logoColor=white)
-
-**[navlens](https://github.com/Farzin-Firoozi/navlens)**
-![npm](https://img.shields.io/npm/dt/navlens?style=flat-square&label=downloads&color=000000&labelColor=000000&logo=npm&logoColor=white) ![npm weekly](https://img.shields.io/npm/dw/navlens?style=flat-square&label=weekly&color=000000&labelColor=000000&logo=npm&logoColor=white) ![npm version](https://img.shields.io/npm/v/navlens?style=flat-square&color=000000&labelColor=000000&logo=npm&logoColor=white)
-
-**[swaggler](https://www.npmjs.com/package/swaggler)**
-![npm](https://img.shields.io/npm/dt/swaggler?style=flat-square&label=downloads&color=000000&labelColor=000000&logo=npm&logoColor=white) ![npm weekly](https://img.shields.io/npm/dw/swaggler?style=flat-square&label=weekly&color=000000&labelColor=000000&logo=npm&logoColor=white) ![npm version](https://img.shields.io/npm/v/swaggler?style=flat-square&color=000000&labelColor=000000&logo=npm&logoColor=white)
-
-**[react-animated-favicon](https://github.com/Farzin-Firoozi/react-animated-favicon)**
-![npm](https://img.shields.io/npm/dt/react-animated-favicon?style=flat-square&label=downloads&color=000000&labelColor=000000&logo=npm&logoColor=white) ![npm weekly](https://img.shields.io/npm/dw/react-animated-favicon?style=flat-square&label=weekly&color=000000&labelColor=000000&logo=npm&logoColor=white) ![npm version](https://img.shields.io/npm/v/react-animated-favicon?style=flat-square&color=000000&labelColor=000000&logo=npm&logoColor=white)
+| Package | npm |
+| :------ | :-- |
+| **[react-modern-drawer](https://github.com/Farzin-Firoozi/react-modern-drawer)** | ![npm](https://img.shields.io/npm/dt/react-modern-drawer?style=flat-square&label=downloads&color=CB3837&labelColor=CB3837&logo=npm&logoColor=white) ![npm weekly](https://img.shields.io/npm/dw/react-modern-drawer?style=flat-square&label=weekly&color=CB3837&labelColor=CB3837&logo=npm&logoColor=white) ![npm version](https://img.shields.io/npm/v/react-modern-drawer?style=flat-square&color=CB3837&labelColor=CB3837&logo=npm&logoColor=white) |
+| **[navlens](https://github.com/Farzin-Firoozi/navlens)** | ![npm](https://img.shields.io/npm/dt/navlens?style=flat-square&label=downloads&color=CB3837&labelColor=CB3837&logo=npm&logoColor=white) ![npm weekly](https://img.shields.io/npm/dw/navlens?style=flat-square&label=weekly&color=CB3837&labelColor=CB3837&logo=npm&logoColor=white) ![npm version](https://img.shields.io/npm/v/navlens?style=flat-square&color=CB3837&labelColor=CB3837&logo=npm&logoColor=white) |
+| **[swaggler](https://www.npmjs.com/package/swaggler)** | ![npm](https://img.shields.io/npm/dt/swaggler?style=flat-square&label=downloads&color=CB3837&labelColor=CB3837&logo=npm&logoColor=white) ![npm weekly](https://img.shields.io/npm/dw/swaggler?style=flat-square&label=weekly&color=CB3837&labelColor=CB3837&logo=npm&logoColor=white) ![npm version](https://img.shields.io/npm/v/swaggler?style=flat-square&color=CB3837&labelColor=CB3837&logo=npm&logoColor=white) |
+| **[react-animated-favicon](https://github.com/Farzin-Firoozi/react-animated-favicon)** | ![npm](https://img.shields.io/npm/dt/react-animated-favicon?style=flat-square&label=downloads&color=CB3837&labelColor=CB3837&logo=npm&logoColor=white) ![npm weekly](https://img.shields.io/npm/dw/react-animated-favicon?style=flat-square&label=weekly&color=CB3837&labelColor=CB3837&logo=npm&logoColor=white) ![npm version](https://img.shields.io/npm/v/react-animated-favicon?style=flat-square&color=CB3837&labelColor=CB3837&logo=npm&logoColor=white) |
 
 ---
 
@@ -73,4 +68,4 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/farzin-firoozi)
 [![Email](https://img.shields.io/badge/-me%40farzin.io-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:me@farzin.io)
 [![Site](https://img.shields.io/badge/-farzin.io-000000?style=flat-square&logo=vercel&logoColor=white)](https://farzin.io)
-[![NPM](https://img.shields.io/badge/-NPM-000000?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/~f4rz1n)
+[![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/~f4rz1n)
